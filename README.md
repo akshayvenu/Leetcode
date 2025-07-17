@@ -7,4 +7,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/akshayvenu/Leetcode/tree/master/0007-reverse-integer) |
+## String
+|  |
+| ------- |
+| [0742-to-lower-case](https://github.com/akshayvenu/Leetcode/tree/master/0742-to-lower-case) |
 <!---LeetCode Topics End-->
